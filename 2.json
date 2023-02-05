@@ -1,4 +1,7 @@
 {
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"spider":"http://jiexi.bulisite.top/209.jar;md5;18D26913107F18900630BF4CB1553ADB",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ppZXhpLmJ1bGlzaXRlLnRvcC90dmxpdmUudHh0"]}]}],
 "sites":[
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
@@ -18,11 +21,26 @@
 {"key": "神马影院","name": "神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
-{"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
-{"key":"csp_biubiu_大象TV","name":"大象TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/r4mrBmUe/hQZb7LnK34ZRBqFil90x8bYr_E1WcLBHm0T5gO_k_9o*"}
+{"key":"Yisou","name":"易搜1","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
+{"key":"csp_Yisou","name":"易搜2","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},  
+{"key":"csp_Upyunso","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"}  
 ],
 
 "parses":[
+{"name":"聚合","type":3,"url":"Demo"},
+{"name":"并发","type":2,"url":"Parallel"},
+{"name":"轮询","type":2,"url":"Sequence"},
+{"name":"解析1","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+{"name":"解析2","type":1,"url":"http://150.158.175.250:88/parse/sign/002c0bbc19f887b2e8e485b06cc9fc4a?url="},
+{"name":"解析3","type":1,"url":"http://81.69.23.108:7788/json.php?url="},
+{"name":"解析4","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
+{"name":"️解析5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"解析6","type":0,"url":"https://okjx.cc/?url="},
+{"name":"解析7","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"️️解析8","type":0,"url":"https://dm.xmflv.com:4433/?url="},
+{"name":"️️解析9","type":0,"url":"http://www.ckmov.vip/api.php?url="},
+{"name":"️解析10","type":0,"url":"https://www.8090g.cn/?url="},
 {"name":"解析1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"线路1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
