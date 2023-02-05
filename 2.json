@@ -23,10 +23,10 @@
 {"key":"csp_Yisou","name":"🔎易搜二","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
 {"key":"AliPS","name":"🔎盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},  
 {"key":"csp_Upyunso","name":"🔎Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
-{"key": "Zhaozy","name": "🔎阿里资源","type": "3","api": "csp_Zhaozy","searchable": "1","quickSearch": "1","filterable": "1","ext": "http://ali.饭太硬.ml/tok","jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
-{"key": "YiSo", "name": " 🔎阿里易搜","type": "3", "api": "csp_YiSo","searchable": "1","quickSearch": "1","filterable": "1","ext": "http://ali.饭太硬.ml/tok","jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
-{"key": "AliPS","name": "🔎阿里盘搜","type": "3","api": "csp_PanSou","searchable": "1","quickSearch": "1","filterable": "1","ext": "http://ali.饭太硬.ml/tok","jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
-{"key": "Upso","name": "🔎阿里云搜","type": "3","api": "csp_Upyunso","searchable": "1","quickSearch": "1","filterable": "1","ext": "http://ali.饭太硬.ml/tok"}
+{"key": "Zhaozy","name": "🔎阿里资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok","jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
+{"key": "YiSo", "name": " 🔎阿里易搜","type": 3, "api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok","jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
+{"key": "AliPS","name": "🔎阿里盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok","jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"},
+{"key": "Upso","name": "🔎阿里云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"}
 ],
 
 "parses":[
