@@ -1,7 +1,8 @@
 {
-//ghhjjjjjj
+//
 "sites":[
 {"key": "豆瓣推荐","name": "豆瓣推荐","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "剧迷","name": "剧迷","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/%E5%89%A7%E8%BF%B7.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
