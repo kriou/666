@@ -1,7 +1,7 @@
 {
 //ghhjjjjjj
 "sites":[
-{"key": "豆瓣推荐","name": "豆瓣首页","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣推荐","name": "豆瓣推荐","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
@@ -9,7 +9,7 @@
 {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "0c55c9f1c5cb4327ae2e51423276bb1e"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-{"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"三六零影视","name":"三六零影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"儿童","name":"儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 {"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
@@ -17,7 +17,7 @@
 {"key":"热舞","name":"女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 {"key": "csp_BBB","name":"哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
 {"key": "神马影院","name": "神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Lezhu_spider","name": "乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
+{"key": "Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
 {"key":"Yisou","name":"🔎搜索一","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
 {"key":"csp_Yisou","name":"🔎搜索二","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
