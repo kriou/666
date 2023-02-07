@@ -14,7 +14,6 @@
 {"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 {"key":"音乐","name":"音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
-{"key":"热舞","name":"女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 {"key": "csp_BBB","name":"哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
 {"key": "神马影院","name": "神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
