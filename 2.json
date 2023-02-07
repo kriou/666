@@ -19,10 +19,10 @@
 {"key": "神马影院","name": "神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
-{"key":"Yisou","name":"🔎易搜一","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
-{"key":"csp_Yisou","name":"🔎易搜二","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
-{"key":"AliPS","name":"🔎盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},  
-{"key":"csp_Upyunso","name":"🔎阿里云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"}
+{"key":"Yisou","name":"🔎搜索一","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
+{"key":"csp_Yisou","name":"🔎搜索二","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
+{"key":"AliPS","name":"🔎搜索三","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},  
+{"key":"csp_Upyunso","name":"🔎搜索四","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"}
 ],
 
 "parses":[
